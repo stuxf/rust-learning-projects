@@ -1,2 +1,3 @@
 # rust-learning-projects
-Rust learning projects as I go along the rust-lang book
+
+Rust learning projects as I go along with the rust-lang book
